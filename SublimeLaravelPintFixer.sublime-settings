@@ -1,0 +1,10 @@
+{
+    "php_path": "",
+    "path": "",
+    "config": "",
+    "on_save": false,
+    "on_load": false,
+    "exclude": [],
+    "debug": false,
+    "encoding": "utf8"
+}

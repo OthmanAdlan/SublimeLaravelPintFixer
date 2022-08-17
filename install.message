@@ -1,0 +1,13 @@
+Thanks for using Laravel Pint Fixer!
+
+  This repo is located here:
+  https://github.com/OthmanAladlan/SublimeLaravelPintFixer
+
+  Configuration
+  -------------
+    For this plugin to work you need to have laravel/pint installed in addition to this plugin 
+    You can install laravel/pint globally with composer by running:
+
+        composer global require laravel/pint
+
+    For more information, please check https://github.com/OthmanAladlan/SublimeLaravelPintFixer
