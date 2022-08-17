@@ -81,7 +81,7 @@ Please note:
 * This plugin don't try to find the config file automatically. If you want to
 create a config file, you have to specify its path in the plugin settings.
 
-For more information see: https://github.com/FriendsOfPHP/PHP-CS-Fixer#usage
+For more information see: https://laravel.com/docs/pint#configuring-pint
 
 ## Exclude files
 

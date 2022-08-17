@@ -1,6 +1,6 @@
 [
     {
-        "caption": "PHP CS Fixer: format this file",
+        "caption": "Laravel Pint Fixer: Fix this file",
         "command": "sublime_laravel_pint_fix"
     }
 ]

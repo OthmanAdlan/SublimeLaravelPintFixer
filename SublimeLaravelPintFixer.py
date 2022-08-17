@@ -178,7 +178,6 @@ class FixerProcess:
             self.settings.get_expanded('php_path'),
             self.get_configured_laravel_pint_path(),
             config,
-            "--using-cache=no",
             tmp_file,
         ]))
 
@@ -275,7 +274,7 @@ class ViewFormatter:
         fixer.run(tmp_file)
 
 
-class SublimePhpCsFixCommand(sublime_plugin.TextCommand):
+class SublimeLaravelPintFixCommand(sublime_plugin.TextCommand):
 
     def __init__(self, view):
         sublime_plugin.TextCommand.__init__(self, view)
