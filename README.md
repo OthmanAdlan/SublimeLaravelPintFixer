@@ -1,5 +1,5 @@
 # Sublime Laravel Pint Fixer
-This is a plugin for Sublime Text 3/4, to format PHP code through laravel pint command on any view.
+This is a plugin for Sublime Text 3/4, to format PHP code through [Laravel Pint](https://laravel.com/docs/pint) command on any view.
 
 ported from the Awesome SublimePhpCsFixer package of [@adael](https://github.com/adael)
 
